@@ -13,7 +13,7 @@ permissions:
  actions: write
 
 # Naya run tab tak wait kare jab tak purana run apna Final Save pura na kar le
-concurrency:a
+concurrency:
  group: akash-rdp
  cancel-in-progress: false
 
